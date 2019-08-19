@@ -54,7 +54,7 @@
 					<!-- Don't use Central Analyzer -->
 					<centralAnalyzerEnabled>false</centralAnalyzerEnabled>
 					<!-- Don't use Nexus Analyzer -->
-					<nexusAnalyzerEnabled>true</nexusAnalyzerEnabled>
+					<nexusAnalyzerEnabled>false</nexusAnalyzerEnabled>
 					<!-- Am I the latest version? -->
 					<versionCheckEnabled>true</versionCheckEnabled>					
 				</configuration>
