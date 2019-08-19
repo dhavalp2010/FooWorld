@@ -52,11 +52,11 @@
 					<!-- Generate all report formats -->
 					<format>ALL</format>
 					<!-- Don't use Central Analyzer -->
-					<centralAnalyzerEnabled>true</centralAnalyzerEnabled>
+					<centralAnalyzerEnabled>false</centralAnalyzerEnabled>
 					<!-- Don't use Nexus Analyzer -->
 					<nexusAnalyzerEnabled>true</nexusAnalyzerEnabled>
 					<!-- Am I the latest version? -->
-					<versionCheckEnabled>true</versionCheckEnabled>
+					<versionCheckEnabled>true</versionCheckEnabled>					
 				</configuration>
 				<!-- add an execution to be automatically ran as part of the 'verify' build lifecycle phase -->
  				<executions>
